@@ -1,0 +1,12 @@
+﻿*arama işlemi
+*üyelik sistemi
+*Identity(kullanıcı adı şifre)
+*yardım popup
+*footer =  yapıldı
+*ayarlar
+*çıkış yap
+*giriş yap
+*yeni üye kaydı
+*admin--aspnet user
+*publish
+*projenin canlıya taşıması
